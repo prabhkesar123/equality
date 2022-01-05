@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: gold;
+
+}
+img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.head{
+    text-align: center;
+    font-size: 18px;
+}
